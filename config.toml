@@ -1,4 +1,4 @@
-baseurl = "https://amaiseg.be/"
+baseurl = "https://serene-medovik-e12822.netlify.app/"
 title = "amaiseg"
 theme = "hugo-theme-console"
 languageCode = "nl-nl"
